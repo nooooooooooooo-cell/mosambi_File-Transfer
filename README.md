@@ -3,3 +3,7 @@ TODO LIST
 1.speed meter
 <br>
 2.add more features
+<br>
+I Tested in linux.
+<br>
+It Worked!
