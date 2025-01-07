@@ -7,3 +7,5 @@ TODO LIST
 I Tested in linux.
 <br>
 It Worked!
+<br>
+Compile:(g++ mosambi-filetransfer.c++ -o mosambi-filetransfer)
